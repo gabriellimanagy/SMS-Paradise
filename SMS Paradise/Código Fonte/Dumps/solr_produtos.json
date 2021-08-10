@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "nome": "O Alquimista",
+    "preco": 23.99,
+    "_version_": 1640686340411490304
+  },
+  {
+    "id": "2",
+    "nome": "Dom Quixote",
+    "preco": 25.36,
+    "_version_": 1640686340423024640
+  },
+  {
+    "id": "3",
+    "nome": "Legend - A Verdade se tornará lenda",
+    "preco": 20.6,
+    "_version_": 1640686340423024641
+  },
+  {
+    "id": "4",
+    "nome": "Dark Force Rising",
+    "preco": 20.72,
+    "_version_": 1640686340424073216
+  },
+  {
+    "id": "6",
+    "nome": "O Hobbit",
+    "preco": 30.9,
+    "_version_": 1640686340425121792
+  },
+  {
+    "id": "7",
+    "nome": "O Pequeno Principe",
+    "preco": 11.35,
+    "_version_": 1640686340426170368
+  },
+  {
+    "id": "8",
+    "nome": "Divergente",
+    "preco": 22.0,
+    "_version_": 1640686340426170369
+  },
+  {
+    "id": "9",
+    "nome": "Insurgente",
+    "preco": 22.0,
+    "_version_": 1640686340426170370
+  },
+  {
+    "id": "10",
+    "nome": "Convergente",
+    "preco": 22.0,
+    "_version_": 1640686340427218944
+  },
+  {
+    "id": "11",
+    "nome": "Jogos Vorazes",
+    "preco": 23.0,
+    "_version_": 1640686340427218945
+  },
+  {
+    "id": "12",
+    "nome": "Em Chamas",
+    "preco": 23.0,
+    "_version_": 1640686340427218946
+  },
+  {
+    "id": "13",
+    "nome": "A Esperança",
+    "preco": 23.0,
+    "_version_": 1640686340428267520
+  },
+  {
+    "id": "14",
+    "nome": "Orfanato da Srta. Peregrine Para Crianças Peculiares",
+    "preco": 18.0,
+    "_version_": 1640686340428267521
+  },
+  {
+    "id": "15",
+    "nome": "Biblioteca dos Mortos",
+    "preco": 18.0,
+    "_version_": 1640686340428267522
+  },
+  {
+    "id": "16",
+    "nome": "O Pântano de Sangue",
+    "preco": 10.0,
+    "_version_": 1640686340429316096
+  },
+  {
+    "id": "17",
+    "nome": "A Droga da Obediência",
+    "preco": 10.0,
+    "_version_": 1640686340429316097
+  },
+  {
+    "id": "18",
+    "nome": "Gothan",
+    "preco": 15.0,
+    "_version_": 1640686340429316098
+  },
+  {
+    "id": "19",
+    "nome": "Kripton",
+    "preco": 15.0,
+    "_version_": 1640686340430364672
+  },
+  {
+    "id": "20",
+    "nome": "O Reino das Vozes Que Não Se Calam",
+    "preco": 2.0,
+    "_version_": 1640686340430364673
+  },
+  {
+    "id": "21",
+    "nome": "O Mundo das Vozes Silenciadas",
+    "preco": 22.0,
+    "_version_": 1640686340430364674
+  },
+  {
+    "id": "22",
+    "nome": "Assassinato no Expresso Oriente",
+    "preco": 25.0,
+    "_version_": 1640686340431413248
+  },
+  {
+    "id": "23",
+    "nome": "O Natal de Poirot",
+    "preco": 25.0,
+    "_version_": 1640686340431413249
+  },
+  {
+    "id": "24",
+    "nome": "As Vantagens de Ser Invisivel",
+    "preco": 24.0,
+    "_version_": 1640686340431413250
+  },
+  {
+    "id": "25",
+    "nome": "Extraordinário",
+    "preco": 30.0,
+    "_version_": 1640686340432461824
+  },
+  {
+    "id": "26",
+    "nome": "Cartas de Amor aos Mortos",
+    "preco": 28.0,
+    "_version_": 1640686340432461825
+  },
+  {
+    "id": "27",
+    "nome": "A Culpa é das Estrelas",
+    "preco": 19.0,
+    "_version_": 1640686340433510400
+  },
+  {
+    "id": "28",
+    "nome": "Cidades de Papel",
+    "preco": 19.0,
+    "_version_": 1640686340433510401
+  },
+  {
+    "id": "29",
+    "nome": "Quem é você alaska?",
+    "preco": 19.0,
+    "_version_": 1640686340433510402
+  },
+  {
+    "id": "30",
+    "nome": "Deixe a Neve Cair",
+    "preco": 21.5,
+    "_version_": 1640686340434558976
+  },
+  {
+    "id": "31",
+    "nome": "O Teorema de Katherine",
+    "preco": 19.0,
+    "_version_": 1640686340434558977
+  },
+  {
+    "id": "32",
+    "nome": "O Cão de Baskerville",
+    "preco": 9.9,
+    "_version_": 1640686340434558978
+  },
+  {
+    "id": "33",
+    "nome": "Eleanor e Park",
+    "preco": 25.0,
+    "_version_": 1640686340435607552
+  },
+  {
+    "id": "34",
+    "nome": "Anexos",
+    "preco": 26.0,
+    "_version_": 1640686340435607553
+  },
+  {
+    "id": "5",
+    "nome": "Harry Potter e a Pedra Filosofal",
+    "preco": 21.03,
+    "gender_s": "Aventura e Magia",
+    "tags_ss": [
+      "aventura",
+      "magia"
+    ],
+    "_version_": 1640952516232347648
+  }
+]

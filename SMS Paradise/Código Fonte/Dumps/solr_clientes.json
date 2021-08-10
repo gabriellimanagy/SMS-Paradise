@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "nome": "Matheus Melli",
+    "telefone": "11956509466",
+    "_version_": 1640684804718460928
+  },
+  {
+    "id": "2",
+    "nome": "Marcos Felipe Albuquerque Campos",
+    "telefone": "11962104382",
+    "_version_": 1640684804777181184
+  },
+  {
+    "id": "3",
+    "nome": "Gabriel Lima da Silva",
+    "telefone": "11964965907",
+    "_version_": 1640684804778229760
+  },
+  {
+    "id": "5",
+    "nome": "Stefany Sampaio",
+    "telefone": "11977182668",
+    "_version_": 1640684804779278337
+  },
+  {
+    "id": "6",
+    "nome": "Pedro Henrique Moreira Martins da Silva",
+    "telefone": "11988985281",
+    "_version_": 1640684804780326912
+  },
+  {
+    "id": "7",
+    "nome": "Beatriz Lourenço",
+    "telefone": "11974041888",
+    "_version_": 1640684804780326913
+  },
+  {
+    "id": "8",
+    "nome": "Alexandra Ferreira dos Santos",
+    "telefone": "11956509466",
+    "_version_": 1640684804781375488
+  },
+  {
+    "id": "9",
+    "nome": "Gustavo Sousa ",
+    "telefone": "11987391979",
+    "_version_": 1640684804784521216
+  },
+  {
+    "id": "10",
+    "nome": "Luiz Eduardo",
+    "telefone": "11959899165",
+    "_version_": 1640684804785569792
+  },
+  {
+    "id": "11",
+    "nome": "Lucas",
+    "telefone": "11959899165",
+    "_version_": 1640684804787666944
+  },
+  {
+    "id": "12",
+    "nome": "Antonio B Gottsfritz",
+    "telefone": "11997851933",
+    "_version_": 1640684804787666945
+  },
+  {
+    "id": "13",
+    "nome": "Vinicius",
+    "telefone": "11959440926",
+    "_version_": 1640684804787666946
+  },
+  {
+    "id": "4",
+    "nome": "Bruno",
+    "telefone": "5511999385764",
+    "tags_ss": [
+      "aventura",
+      "magia",
+      "religiao",
+      "filosofia"
+    ],
+    "_version_": 1640951120270458880
+  },
+  {
+    "id": "14",
+    "nome": "Ingrid",
+    "telefone": "5511965679159",
+    "tags_ss": [
+      "aventura",
+      "magia",
+      "literatura",
+      "psicologia"
+    ],
+    "_version_": 1640951128534286336
+  }
+]
